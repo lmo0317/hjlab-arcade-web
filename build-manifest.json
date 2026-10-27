@@ -1,0 +1,110 @@
+{
+  "block-game/index.apple-touch-icon.png": {
+    "size": 19432,
+    "sha256": "05e90f69164d9ee37c0143d241408d1766645550021525e62a485079c48efae7"
+  },
+  "block-game/index.audio.position.worklet.js": {
+    "size": 2973,
+    "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+  },
+  "block-game/index.audio.worklet.js": {
+    "size": 7298,
+    "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+  },
+  "block-game/index.html": {
+    "size": 7767,
+    "sha256": "80eab331f0bcc885b71d0b60dae65b632b70e92166488bc5b2f7519c1917815e"
+  },
+  "block-game/index.icon.png": {
+    "size": 12015,
+    "sha256": "11519cf244fdadf6be49ee5a23790d5b7928535da0fbd75df1ddd1e8bcb2ac70"
+  },
+  "block-game/index.js": {
+    "size": 280072,
+    "sha256": "a7b5c026aba365037e3ed4470834fe205c553168a8ee355d7ae01f170068184a"
+  },
+  "block-game/index.pck": {
+    "size": 96454168,
+    "sha256": "e4180a3205d5247107c18c0d8ca8ee75bc82239fe171fc4722a8b07b2e18b1f6"
+  },
+  "block-game/index.png": {
+    "size": 21443,
+    "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+  },
+  "block-game/index.wasm": {
+    "size": 39514754,
+    "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+  },
+  "block-wukong/index.apple-touch-icon.png": {
+    "size": 7887,
+    "sha256": "a899861c0140ae4b67de3ca739d6e07470f26ad681fa5318a84d49f82cb2cd7b"
+  },
+  "block-wukong/index.audio.position.worklet.js": {
+    "size": 2973,
+    "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+  },
+  "block-wukong/index.audio.worklet.js": {
+    "size": 7298,
+    "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+  },
+  "block-wukong/index.html": {
+    "size": 6920,
+    "sha256": "05b9d3ea9bf8f0f9864c1558e179acd014d6314564a33e8dc38dc924a6fbf9aa"
+  },
+  "block-wukong/index.icon.png": {
+    "size": 11409,
+    "sha256": "4cedd12b865890c465f8a4e5650332b9973d82d8c14b7a4bfcec60a27054f0c9"
+  },
+  "block-wukong/index.js": {
+    "size": 280025,
+    "sha256": "69191191f62a9a1ca8d70c2ff67955d4c86fa4b77b67f7f49bc5b9b10e87badc"
+  },
+  "block-wukong/index.pck": {
+    "size": 25274372,
+    "sha256": "840bfe3d4a387a1d62e412a533274a07889440b71194d0a32c88e9768acda786"
+  },
+  "block-wukong/index.png": {
+    "size": 21443,
+    "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+  },
+  "block-wukong/index.wasm": {
+    "size": 39514754,
+    "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+  },
+  "loglike-defence/index.apple-touch-icon.png": {
+    "size": 7979,
+    "sha256": "d2287921ac56b80f164e4baa18eda27fb3c8e9820298b8adc5970fb3486e8868"
+  },
+  "loglike-defence/index.audio.position.worklet.js": {
+    "size": 2973,
+    "sha256": "be33985bc7160d6bf9646f259cd86b259cd67b02ccb297ee5c44f8ac84327bc8"
+  },
+  "loglike-defence/index.audio.worklet.js": {
+    "size": 7298,
+    "sha256": "5b476a9c9ce642c0ee4256436d1bc31d9c38f868aca0f9a8e2a57c18d2dec2a3"
+  },
+  "loglike-defence/index.html": {
+    "size": 6916,
+    "sha256": "8558c554f281b0c25d01574b146b77cffa798c8f906f6d94900464afd32375bd"
+  },
+  "loglike-defence/index.icon.png": {
+    "size": 3705,
+    "sha256": "696dff712e73881abef70be70823fe5da8450cc7e5e43aa4eaaf2df2e6188901"
+  },
+  "loglike-defence/index.js": {
+    "size": 280025,
+    "sha256": "69191191f62a9a1ca8d70c2ff67955d4c86fa4b77b67f7f49bc5b9b10e87badc"
+  },
+  "loglike-defence/index.pck": {
+    "size": 21700496,
+    "sha256": "48db767e355e7b348db2e8fcbfa7efa9553ea68faf30786fb2157c4e297d8e18"
+  },
+  "loglike-defence/index.png": {
+    "size": 21443,
+    "sha256": "3cb4495c0b98dfbe4b663cbf2b6836473572339beb66d902367893162a70be0e"
+  },
+  "loglike-defence/index.wasm": {
+    "size": 39514754,
+    "sha256": "fc74679e3b97f76878947fcd4fbe1268cbfa6188182a2e33bbc3f5dc9bfa57d0"
+  }
+}
