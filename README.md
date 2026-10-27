@@ -2,7 +2,7 @@
 
 Browser-playable test builds for Puzzle Block, Block Miss Wukong, and Wukong Defence.
 
-Portal: http://aieng.cafe24app.com/arcade/
+Portal: https://hjinlabs.com/arcade/
 
 This repository contains web distribution builds only. The original editor projects and private service code are not included. No open-source license is granted by publishing these test builds.
 
